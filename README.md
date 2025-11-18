@@ -59,5 +59,5 @@ g++ -std=c++17 main.cpp -o ftp_client -lcurl
 
 ./ftp_client
 ...
-ftp_client> connect ftp://demo.wftpserver.com demo:demo
+ftp_client> connect ftp://test.rebex.net demo:password
 ```
